@@ -1,0 +1,6 @@
+Fonts Default :Monstarrat ExtraBold
+Fancy Font : Gabelisa
+Heading:  Monstarrat Black
+Sub Heading: Monstarrat Light
+Sircles: Deep(f1ca39),Light(f6e090)
+Background: f1d363
